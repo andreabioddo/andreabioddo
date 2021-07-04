@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andreabioddo
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Java, Python 
+- 📫 How to reach me send me a mail to andrea.bioddo@gmail.com
